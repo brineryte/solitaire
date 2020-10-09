@@ -5,3 +5,5 @@ dist
 prep
 
 *.js.map
+
+.idea
